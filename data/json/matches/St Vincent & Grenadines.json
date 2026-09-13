@@ -33,7 +33,7 @@
   },
   "matches": [
     {
-      "date": "2026-11-13",
+      "date": "2026-11-17",
       "country": "French Guiana",
       "tournament": "CONCACAF League B",
       "team1": "St Vincent & Grenadines",
@@ -57,7 +57,7 @@
     },
     {
       "date": "2026-11-13",
-      "country": "St Vincent & Grenadines",
+      "country": "French Guiana",
       "tournament": "CONCACAF League B",
       "team1": "St Vincent & Grenadines",
       "team2": "Belize",
@@ -71,7 +71,7 @@
       "rating2": 4330,
       "rating_ev": 0,
       "rank": 171,
-      "win_prob": 68.5,
+      "win_prob": 58.4,
       "type": "fixture",
       "points_off": 4743,
       "points_def": 4459,

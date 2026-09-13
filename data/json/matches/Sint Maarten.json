@@ -33,8 +33,8 @@
   },
   "matches": [
     {
-      "date": "2026-11-13",
-      "country": "Belize",
+      "date": "2026-11-17",
+      "country": "French Guiana",
       "tournament": "CONCACAF League B",
       "team1": "Sint Maarten",
       "team2": "Belize",
@@ -48,7 +48,7 @@
       "rating2": 4330,
       "rating_ev": 0,
       "rank": 200,
-      "win_prob": 16.4,
+      "win_prob": 23.3,
       "type": "fixture",
       "points_off": 4475,
       "points_def": 4209,
@@ -57,7 +57,7 @@
     },
     {
       "date": "2026-11-13",
-      "country": "Sint Maarten",
+      "country": "French Guiana",
       "tournament": "CONCACAF League B",
       "team1": "Sint Maarten",
       "team2": "French Guiana",
@@ -71,7 +71,7 @@
       "rating2": 4576,
       "rating_ev": 0,
       "rank": 200,
-      "win_prob": 14.4,
+      "win_prob": 6.6,
       "type": "fixture",
       "points_off": 4475,
       "points_def": 4209,

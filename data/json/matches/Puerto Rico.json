@@ -33,7 +33,7 @@
   },
   "matches": [
     {
-      "date": "2026-11-13",
+      "date": "2026-11-17",
       "country": "Guyana",
       "tournament": "CONCACAF League B",
       "team1": "Puerto Rico",
@@ -57,7 +57,7 @@
     },
     {
       "date": "2026-11-13",
-      "country": "Puerto Rico",
+      "country": "Guyana",
       "tournament": "CONCACAF League B",
       "team1": "Puerto Rico",
       "team2": "Dominica",
@@ -71,7 +71,7 @@
       "rating2": 4030,
       "rating_ev": 0,
       "rank": 169,
-      "win_prob": 90.3,
+      "win_prob": 85.7,
       "type": "fixture",
       "points_off": 4663,
       "points_def": 4442,
@@ -103,7 +103,7 @@
     },
     {
       "date": "2026-10-01",
-      "country": "Puerto Rico",
+      "country": "Dominica",
       "tournament": "CONCACAF League B",
       "team1": "Puerto Rico",
       "team2": "Cayman Islands",
@@ -117,7 +117,7 @@
       "rating2": 3879,
       "rating_ev": 0,
       "rank": 169,
-      "win_prob": 94.5,
+      "win_prob": 91.7,
       "type": "fixture",
       "points_off": 4663,
       "points_def": 4442,

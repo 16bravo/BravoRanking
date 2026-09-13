@@ -33,7 +33,7 @@
   },
   "matches": [
     {
-      "date": "2026-11-13",
+      "date": "2026-11-17",
       "country": "French Guiana",
       "tournament": "CONCACAF League B",
       "team1": "French Guiana",
@@ -57,7 +57,7 @@
     },
     {
       "date": "2026-11-13",
-      "country": "Sint Maarten",
+      "country": "French Guiana",
       "tournament": "CONCACAF League B",
       "team1": "French Guiana",
       "team2": "Sint Maarten",
@@ -71,7 +71,7 @@
       "rating2": 4057,
       "rating_ev": 0,
       "rank": 156,
-      "win_prob": 85.6,
+      "win_prob": 93.4,
       "type": "fixture",
       "points_off": 4751,
       "points_def": 4560,

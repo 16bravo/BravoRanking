@@ -33,7 +33,7 @@
   },
   "matches": [
     {
-      "date": "2026-11-13",
+      "date": "2026-11-17",
       "country": "Cuba",
       "tournament": "CONCACAF League B",
       "team1": "Grenada",
@@ -57,7 +57,7 @@
     },
     {
       "date": "2026-11-13",
-      "country": "Grenada",
+      "country": "Cuba",
       "tournament": "CONCACAF League B",
       "team1": "Grenada",
       "team2": "Saint Kitts and Nevis",
@@ -71,7 +71,7 @@
       "rating2": 4072,
       "rating_ev": 0,
       "rank": 173,
-      "win_prob": 83.0,
+      "win_prob": 75.9,
       "type": "fixture",
       "points_off": 4656,
       "points_def": 4334,
