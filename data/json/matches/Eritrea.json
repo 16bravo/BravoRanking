@@ -126,7 +126,7 @@
     },
     {
       "date": "2026-09-30",
-      "country": "Eritrea",
+      "country": "Egypt",
       "tournament": "African Cup qualifier",
       "team1": "Eritrea",
       "team2": "South Africa",
@@ -140,7 +140,7 @@
       "rating2": 5020,
       "rating_ev": 0,
       "rank": 149,
-      "win_prob": 22.9,
+      "win_prob": 16.0,
       "type": "fixture",
       "points_off": 4778,
       "points_def": 4664,
