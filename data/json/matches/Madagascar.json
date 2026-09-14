@@ -33,7 +33,7 @@
   },
   "matches": [
     {
-      "date": "2027-03-13",
+      "date": "2027-03-14",
       "country": "Madagascar",
       "tournament": "African Cup qualifier",
       "team1": "Madagascar",
@@ -56,7 +56,7 @@
       "ranking_def": 116
     },
     {
-      "date": "2027-03-13",
+      "date": "2027-03-14",
       "country": "Tanzania",
       "tournament": "African Cup qualifier",
       "team1": "Madagascar",
@@ -79,7 +79,7 @@
       "ranking_def": 116
     },
     {
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "country": "Guinea-Bissau",
       "tournament": "African Cup qualifier",
       "team1": "Madagascar",
@@ -102,7 +102,7 @@
       "ranking_def": 116
     },
     {
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "country": "Madagascar",
       "tournament": "African Cup qualifier",
       "team1": "Madagascar",
@@ -126,7 +126,7 @@
     },
     {
       "date": "2026-09-29",
-      "country": "Madagascar",
+      "country": "Morocco",
       "tournament": "African Cup qualifier",
       "team1": "Madagascar",
       "team2": "Tanzania",
@@ -140,7 +140,7 @@
       "rating2": 4824,
       "rating_ev": 0,
       "rank": 105,
-      "win_prob": 61.1,
+      "win_prob": 50.3,
       "type": "fixture",
       "points_off": 4924,
       "points_def": 4711,

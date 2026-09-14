@@ -33,7 +33,7 @@
   },
   "matches": [
     {
-      "date": "2027-03-13",
+      "date": "2027-03-14",
       "country": "Equatorial Guinea",
       "tournament": "African Cup qualifier",
       "team1": "Equatorial Guinea",
@@ -56,7 +56,7 @@
       "ranking_def": 84
     },
     {
-      "date": "2027-03-13",
+      "date": "2027-03-14",
       "country": "Sierra Leone",
       "tournament": "African Cup qualifier",
       "team1": "Equatorial Guinea",
@@ -79,7 +79,7 @@
       "ranking_def": 84
     },
     {
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "country": "Equatorial Guinea",
       "tournament": "African Cup qualifier",
       "team1": "Equatorial Guinea",
@@ -102,7 +102,7 @@
       "ranking_def": 84
     },
     {
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "country": "Zimbabwe",
       "tournament": "African Cup qualifier",
       "team1": "Equatorial Guinea",
@@ -126,7 +126,7 @@
     },
     {
       "date": "2026-09-28",
-      "country": "Equatorial Guinea",
+      "country": "Cameroon",
       "tournament": "African Cup qualifier",
       "team1": "Equatorial Guinea",
       "team2": "Sierra Leone",
@@ -140,7 +140,7 @@
       "rating2": 4799,
       "rating_ev": 0,
       "rank": 108,
-      "win_prob": 62.9,
+      "win_prob": 52.2,
       "type": "fixture",
       "points_off": 4783,
       "points_def": 4790,
